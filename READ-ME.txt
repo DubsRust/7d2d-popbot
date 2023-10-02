@@ -1,0 +1,12 @@
+Create an account @ https://www.battlemetrics.com/
+
+Add your server to your organization
+
+Go to the dashboard on rcon, copy the last digits at the end.
+
+EXAMPLE: https://www.battlemetrics.com/rcon/servers/23864406
+
+Use only the "23864406" part for Server_ID
+
+Use your bot token from the developer portal and you're good to go!
+
